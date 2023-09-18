@@ -4,7 +4,6 @@ This package demonstrates a ROS service for performing edge detection on images 
 
 
 1. Build the package using catkin_make:
-
 '''
 cd Edge_Detection_Service
 catkin_make
