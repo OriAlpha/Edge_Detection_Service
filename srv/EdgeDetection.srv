@@ -1,0 +1,3 @@
+string input_image_path
+---
+string output_image_path
